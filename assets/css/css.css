@@ -1,0 +1,37 @@
+html,
+body {
+
+    display: table;
+    height: 100%;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+
+  }
+
+#header,
+#footer {
+
+    background: url('../img/wineredgradient.png');    
+    display: table-row;
+    height: 10%;
+    color: white;
+    
+}
+
+#content {
+
+    background: url('../img/siennagradient.png');
+    display: table-row;
+    height: 30%;
+
+}
+
+#content2 {
+
+    background: url('../img/blackgradient.png');
+    display: table-row;
+    height: 30%;
+    color: white;
+    
+}
