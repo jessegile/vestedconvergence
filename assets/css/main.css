@@ -107,10 +107,10 @@ nav h1:hover {
 }
 
 /* Showcase */
-.showcase {  
+.showcase {    
   text-align: right;
   padding-top: 20%;   
-  background: url("/assets/img/showcase.jpg") 20% 30% / cover;
+  background: url("/assets/img/jessegile.png") 20% 30% / cover;
   height: 100vh;  
 }
 .showcase h1 {
@@ -167,5 +167,4 @@ footer {
   .menu {
     display: flex;
   }
-
 }
